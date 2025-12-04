@@ -30,24 +30,24 @@ http://localhost:5000
 
 ## All screenshots are embedded below as required.
 
-![Register Screenshot](screenshots/register.png)
+![Register Screenshot](src/screenshots/register.png)
 
-![Login Screenshot](screenshots/login.png)
-![Login Screenshot](screenshots/login2.png)
+![Login Screenshot](src/screenshots/login.png)
+![Login Screenshot](src/screenshots/login2.png)
 
-![Products Screenshot](screenshots/get-products.png)
+![Products Screenshot](src/screenshots/get-products.png)
 
-![Add to Cart Screenshot](screenshots/add-to-cart.png)
+![Add to Cart Screenshot](src/screenshots/add-to-cart.png)
 
-![Get Cart Screenshot](screenshots/get-cart.png)
+![Get Cart Screenshot](src/screenshots/get-cart.png)
 
-![Update Cart Screenshot](screenshots/get-cart2.png)
+![Update Cart Screenshot](src/screenshots/get-cart2.png)
 
-![Delete Cart Screenshot](screenshots/delete-cart.png)
+![Delete Cart Screenshot](src/screenshots/delete-cart.png)
 
-![MongoDB Products Screenshot](screenshots/mongo-products.png)
+![MongoDB Products Screenshot](src/screenshots/mongo-products.png)
 
-![MongoDB Cart Screenshot](screenshots/mongo-cart.png)
+![MongoDB Cart Screenshot](src/screenshots/mongo-cart.png)
 
 
 
